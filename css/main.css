@@ -1,0 +1,17 @@
+nav { 
+	position: absolute;
+    left: 535px;
+    bottom: 350px;
+    text-align: center;
+    color: #726E66;
+     }
+li { 
+    display: inline-block;
+    font-size: 40px;
+    color: #614772;
+    position: relative;
+    left: 300px;
+    padding: 20px;
+       } 
+
+.fondo { background-image: url(../images/logoc.jpg);}           
